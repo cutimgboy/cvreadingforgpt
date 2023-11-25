@@ -1,7 +1,7 @@
 /**
  * APIKEY
  */
-process.env.OPENAI_API_KEY = "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";
+process.env.OPENAI_API_KEY = "your-api-key";
 
 import { PromptTemplate } from "langchain/prompts";
 import { ChatOpenAI } from "langchain/chat_models/openai";
